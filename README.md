@@ -2,7 +2,7 @@
 
 第三版成片完成于 2026 年 11 月 19 日。影片以原创概念住宅为场景，从灰模逐步显现材质和灯光，经连续镜头走完一至四层，最后抵达露台。第三版重做了室内分区和固定家具布置。
 
-[下载第三版 MP4](../../releases/download/v3/four-story-residential-walkthrough-v3.mp4)
+[下载第三版 MP4](https://github.com/michalflowers245-alt/four-story-residential-walkthrough/releases/download/v3/four-story-residential-walkthrough-v3.mp4)
 
 | 文件属性 | 值 |
 | --- | --- |
